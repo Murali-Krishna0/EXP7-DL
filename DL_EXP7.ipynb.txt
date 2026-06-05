@@ -24,14 +24,13 @@
       },
       "outputs": [],
       "source": [
-        "## PREM R\n",
-        "## 212223240124\n"
+        "## MURALI KRISHNA S\n",
+        "## 212223230129\n"
       ]
     },
     {
       "cell_type": "code",
       "source": [
-        "Name: MURALI KRISHNA S\n","Reg No: 212223230129\n"
         "import torch\n",
         "import torch.nn as nn\n",
         "import torch.optim as optim\n",
